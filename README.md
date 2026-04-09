@@ -1,6 +1,6 @@
 # Snake Game 
 
-## 🎮 Sobre
+##  Sobre
 Jogo Snake desenvolvido com HTML, CSS e JavaScript puro.
 
 ##  Como jogar
